@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.leansoft</groupId>
+  <artifactId>bigqueue</artifactId>
+  <versioning>
+    <versions>
+      <version>0.6.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130129091351</lastUpdated>
+  </versioning>
+</metadata>
