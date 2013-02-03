@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.leansoft.nano</groupId>
+  <artifactId>nano</artifactId>
+  <versioning>
+    <versions>
+      <version>0.6.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130203035537</lastUpdated>
+  </versioning>
+</metadata>
