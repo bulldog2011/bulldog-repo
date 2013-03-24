@@ -3,10 +3,11 @@
   <groupId>com.leansoft</groupId>
   <artifactId>bigqueue</artifactId>
   <versioning>
-    <release>0.6.1</release>
+    <release>0.7.0</release>
     <versions>
       <version>0.6.1</version>
+      <version>0.7.0</version>
     </versions>
-    <lastUpdated>20130129074429</lastUpdated>
+    <lastUpdated>20130324090910</lastUpdated>
   </versioning>
 </metadata>
